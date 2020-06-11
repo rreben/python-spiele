@@ -4,7 +4,7 @@ Dies ist ein Projekt, um meinem Sohn die Grundzüge der Programmierung beizubrin
 
 Wir nutzen dazu das Buch ["Spiele mit Python supereasy programmieren"](https://www.amazon.de/Spiele-mit-Python®-supereasy-programmieren/dp/3831036756/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&crid=2YKWV4KN13AB&dchild=1&keywords=spiele+mit+python+supereasy+programmieren&qid=1591907706&sprefix=spiele+mit+py%2Caps%2C154&sr=8-1) von Carol Vorderman.
 
-## Installation
+## Installation auf MacOS 10.15.5
 
 ### Voraussetzungen
 
