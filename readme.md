@@ -84,3 +84,27 @@ def draw():
 Dann sollte `pgzrun intro.py` ein leeres rotes Quadrat anzeigen.
 
 Nun kann es mit der Programmierung für meinen Sohn losgehen.
+
+## Starten der Programmierlernumgebung
+
+Um die Lernumgegung zu starten wechseln wir in der shell in das Projektverzeichnis.
+
+Falls die virtuelle Umgebung noch nicht aktiv ist (man kann das am Prompt sehen), starten wir diese mit:
+
+```
+source bin/activate
+```
+
+Anschließend starten wir die IDLE IDE aus der viruellen Umgebung heraus. Dies geschieht in der Shell über:
+
+```
+python -m idlelib.idle &
+```
+
+Das `&` am Ende der Zeile sorgt dafür, dass die shell nicht blockiert.
+
+## Erste Schritte
+
+`wasser-schlacht.py`: Schleife und Verarbeitung eines Inputs.
+`hochrechnen.py`: Schleife mit Berechnung auf der Laufvariablen.
+`zwischen.py`: Schleife mit Variablen die das Ergebnis von einer Iteration in die nächste trägt.
